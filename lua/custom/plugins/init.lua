@@ -3,5 +3,6 @@
 --
 -- See the kickstart.nvim README for more information
 require 'custom/plugins/none-ls'
+require 'custom/plugins/vim-tmux-navigator'
 
 return {}
