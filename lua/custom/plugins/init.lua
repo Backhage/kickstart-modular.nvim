@@ -2,7 +2,6 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
-require 'custom/plugins/none-ls'
 require 'custom/plugins/gruvbox'
 require 'custom/plugins/vim-tmux-navigator'
 
